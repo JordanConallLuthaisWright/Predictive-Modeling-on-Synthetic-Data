@@ -159,6 +159,15 @@ Next Steps & Future Improvements
 
 ---
 
+## **Contact & Contributions**
+Feel free to explore and contribute! If you have any suggestions, reach out or submit a pull request.
+- **Email**: [jordan.c.l.wright@gmail.com](mailto:jordan.c.l.wright@gmail.com)
+
+---
+
+### **Author:** Jordan
+[GitHub Profile](https://github.com/JordanConallLuthaisWright)
+
 
 
 
